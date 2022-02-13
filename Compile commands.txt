@@ -1,0 +1,7 @@
+64 Bits: lime build windows -release
+64 Bits (debug): lime build windows -debug
+32 Bits: lime build windows -32 -release -D 32bits
+Version Web: lime test html5
+Version Web (debug): lime test html5 -debug
+
+PD: Es mejor hacerlo de esta forma, asi no hay lios
