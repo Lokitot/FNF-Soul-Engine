@@ -1,5 +1,5 @@
 # Friday Night Funkin' - Soul Engine
-(https://gamebanana.com/mods/301107), a fusion of Kade Engine and Psych Engine to fix some stuff (still in beta)
+(https://gamebanana.com/mods/357642), a fusion of Kade Engine and Psych Engine to fix some stuff (still in beta)
 
 ## Installation:
 Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
@@ -20,13 +20,6 @@ WARNING: This engine is still very early in development! You can request new fea
 
 DISCLAIMER: WE ARE NOT COPYING EVERYTHING FROM OTHER ENGINES, WE ARE TRYING TO MAKE THIS ENGINE UNIQUE, THANKS
 _____________________________________
-
-# Features
-
-## Attractive animated dialogue boxes:
-
-![](https://user-images.githubusercontent.com/44785097/127706669-71cd5cdb-5c2a-4ecc-871b-98a276ae8070.gif)
-
 
 ## Atleast one change to every week:
 ### Week 1:
