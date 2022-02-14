@@ -72,7 +72,8 @@ NOTE: This should be used for fixing your character floating or being slightly u
 
 ## Options menu:
 * You can change Note colors, Controls and Preferences there.
- * On Preferences you can toggle Downscroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Hide Hud elements, Flashing Lights, etc.
+* On Preferences you can toggle Downscroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Hide Hud elements, Flashing Lights, etc.
+* We added hit sounds in-game.
 
 ## Other gameplay features:
 * When the enemy hits a note, it plays the note hit animation on their strum, just like when the player hits a note.
