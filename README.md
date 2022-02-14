@@ -52,7 +52,7 @@ _____________________________________
   * Hey: Forces a "Hey" animation instead of the base Sing animation, if Boyfriend hits this note, Girlfriend will do a "Hey!" too.
 
 ## Improved Animation Debug menu (Press 8 in-game on a Debug build)
-![](https://user-images.githubusercontent.com/44785097/127721062-f912853c-2513-41b8-bd66-fd80d9d4ee0f.png)
+![](https://i.imgur.com/e13L7l4.png)
 * You can now press Save Offsets to save a .txt file with the editted offsets
 * You can also now change the characters while on the Menu
 * Go back to the game by pressing Escape
@@ -64,7 +64,7 @@ NOTE: This should be used for fixing your character floating or being slightly u
 * All menu characters are now in individual spritesheets, makes modding it easier.
 
 ## Credits menu
-![](https://i.imgur.com/NdIQt3d.png)
+![](https://i.imgur.com/aQo6XBA.png)
 * You can add a head icon, name, description and a Redirect link for when the player presses Enter while the item is currently selected.
 
 ## Awards/Achievements
